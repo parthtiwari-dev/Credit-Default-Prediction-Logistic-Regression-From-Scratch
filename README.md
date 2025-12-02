@@ -9,20 +9,35 @@ UCI "Default of Credit Card Clients Dataset" (Kaggle mirror name: default of cre
 Folder structure:
 credit-default-logistic/
 ├── data/
+
 │ ├── raw.csv
+
 │ └── processed.csv
+
 ├── notebooks/
+
 │ ├── 01_eda.ipynb
+
 │ ├── 02_feature_engineering.ipynb
+
 │ └── 03_modeling_logistic.ipynb
+
 ├── src/
+
 │ ├── scratch_logistic.py
+
 │ ├── preprocess.py
+
 │ └── evaluation.py
+
 ├── outputs/
+
 │ ├── figures/
+
 │ └── results/
+
 ├── README.md
+
 └── requirements.txt
 
 
